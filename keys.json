@@ -1,0 +1,5 @@
+{
+  "layout:herdr-t3": {
+    "cmd-shift-e": "layout.toggle:panel"
+  }
+}
