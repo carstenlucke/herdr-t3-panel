@@ -2,6 +2,9 @@
 
 Herdr's own **Files** and **Changes** panels for the [Herdr T3](https://github.com/JinJieBeWater/herdr-t3) layout, with a toggle button in T3's tab bar and `cmd-shift-e`.
 
+> [!NOTE]
+> The panel is proposed for Herdr T3 itself: [JinJieBeWater/herdr-t3#4](https://github.com/JinJieBeWater/herdr-t3/pull/4). That version goes further than this repo: each space remembers its panel, only the panels Herdr's welcome left on are offered, and there's no frame inside a frame. Once it's merged, use Herdr T3 and drop this mod; this repo will be archived.
+
 Herdr's default layout (`main`) has Files and Changes on the right; Herdr T3 leaves them out. This adds them back as a hidden panel on the right of T3's work area, with Files and Changes as tabs at its top, and a button between **Add action** and **+** to show or hide it.
 
 ![herdr-t3-panel](preview.png)
